@@ -9,3 +9,6 @@ This is the first commit
 ## 2 commit
 
 This is the second commit
+
+## 3 commit
+This is the third commit
