@@ -6,3 +6,5 @@ Modifying Readme with 1 commit
 Modifying Readme with 2 commit
 
 Modifying Readme with 3 commit
+
+Modifying Readme with 4-Bad-Commit commit
